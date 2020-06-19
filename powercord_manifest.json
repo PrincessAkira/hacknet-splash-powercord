@@ -1,0 +1,9 @@
+{
+    "name": "Hacknet-Loading",
+    "description": "A modified Version of the Rain-Startscreen",
+    "version": "1.0",
+    "author": "Yukii + a user#0001",
+    "license": "GNU GPL",
+    "theme": "randomshidd.css",
+    "splashTheme": "splash.css"
+}
